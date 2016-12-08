@@ -2,6 +2,7 @@
 Shows real-time CPU and RAM statistics of a **remote** Linux Machine on a LCD display via Arduino or on a web frontend. There is a Server software, running  on the machine you want to monitor and some Clients, to see the stats in realtime on varius platforms.
 
 [Arduino in action (Video)](https://gfycat.com/WhiteGrandioseAsianlion)
+
 <img src="http://i.imgur.com/4EwSknUl.jpg?2">
 
 
